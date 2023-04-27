@@ -1,6 +1,6 @@
 ### login_data.json example:
-{
-    "ip": "<your_server_ip>",
-    "user": "<user>",
-    "password": "<passowrd>"
+{<br>
+    "ip": "<your_server_ip>",<br>
+    "user": "<user>",<br>
+    "password": "<passowrd>"<br>
 }
