@@ -1,8 +1,8 @@
 ### login_data.json template:
 ```json
 {
-    "ip": "<your_server_ip>",
+    "ip": "<your_server_address>",
     "user": "<user>",
-    "password": "<passowrd>"
+    "password": "<password>"
 }
 ```
